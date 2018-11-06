@@ -7,4 +7,6 @@ Installation Instructions:
 3. Download "Project" folder.
 4. Open index.html file in web browser
 Usage : website is intended to be used as a resource for customers interested in company products and to access customer database for employees.
+Usage: Website is only intended to be used as a template.
+Author: Marquise Slaughter
 License: GNU LESSER GENERAL PUBLIC LICENSE
